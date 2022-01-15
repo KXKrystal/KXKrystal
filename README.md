@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KXKrystal
+- 👀 I’m interested in C/C++, Compiler Design, 3D Graphics, Researching AI, Creating CPU architectures 
+- 🌱 I’m currently learning (relearning) Web development, FPGA
+- 💞️ I’m looking to collaborate on anything tbh
+- 📫 How to reach me: my Discord is DisgrACE#4720.
